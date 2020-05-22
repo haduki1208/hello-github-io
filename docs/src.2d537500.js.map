@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.ts"],"names":[],"mappings":";AAAA,SAAS,cAAc,MAAM,YAAc","file":"src.2d537500.js","sourceRoot":"../src","sourcesContent":["document.querySelector(\"h1\").textContent = \"hello world\";\n"]}
